@@ -1281,10 +1281,13 @@
 				box-shadow: inset 0px -1px 0px 0px #51575a;
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 			}
+			nav {
+				background: url(https://writergirlkp.files.wordpress.com/2013/11/black-windows_542931.jpg);
+			}
 
 			.subpage #header-wrapper {
 				height: 155px;
-				background: url(https://writergirlkp.files.wordpress.com/2013/11/black-windows_542931.jpg);
+
 			}
 
 			#features-wrapper {
